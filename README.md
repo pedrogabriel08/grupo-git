@@ -1,2 +1,3 @@
 # grupo-git
-Pedro Gabriel, Wiliam Antonio, Nathalia Queiroz, Camlia Mulazani, Silas Daniel
+Pedro Gabriel, Wiliam Antonio, Nathalia Queiroz, Camlia Mulazani, Silas Sigueira
+Nathalia diz ola
