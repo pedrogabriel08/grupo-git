@@ -1,3 +1,12 @@
 # grupo-git
-Pedro Gabriel, Wiliam Antonio, Nathalia Queiroz, Camlia Mulazani, Silas Sigueira
-Nathalia 
+## Pedro Gabriel
+=======
+# #william
+## oiii
+=======
+## camila
+
+========
+
+## Sillas
+## Nathalia
